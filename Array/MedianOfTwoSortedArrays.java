@@ -18,7 +18,6 @@ public class MedianOfTwoSortedArrays {
         if (AStart >= A.length) {
             return B[BStart + k - 1];
         }
-
         if (BStart >= B.length) {
             return A[AStart + k - 1];
         }
