@@ -4,6 +4,7 @@ package DataStructure;
  * Created by Haolin on 16/7/2.
  */
 public class Heapify {
+
     public void heapify(int[] A) {
         // bottom up approach
         // if find one child in reverse-array order, sift down, sift up

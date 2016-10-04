@@ -35,7 +35,7 @@ public class RegularExpressionMatching {
     }
 
 
-//    public boolean isMatchDP(String s, String p) {
+//    public boolean isMatchDP(TestString s, TestString p) {
 //        // state:see if first i and first j can match
 //        boolean[][] match = new boolean[s.length() + 1][p.length() + 1];
 //
